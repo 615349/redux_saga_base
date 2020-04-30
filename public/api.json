@@ -1,0 +1,182 @@
+{
+  "hits": [
+    {
+      "created_at": "2020-04-29T11:39:21.000Z",
+      "title": "A Twitter thread of RTL(right-to-left)-language GUI bugs",
+      "url": "https://twitter.com/_saljam/status/1255197629123878914",
+      "author": "jan_Inkepa",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1588160361,
+      "_tags": ["story", "author_jan_Inkepa", "story_23017978"],
+      "objectID": "23017978",
+      "_highlightResult": {
+        "title": {
+          "value": "A Twitter thread of RTL(right-to-left)-language GUI bugs",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://twitter.com/_saljam/status/1255197629123878914",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "jan_Inkepa",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-29T11:39:13.000Z",
+      "title": "Example.com",
+      "url": "http://example.com/",
+      "author": "mlejva",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1588160353,
+      "_tags": ["story", "author_mlejva", "story_23017977"],
+      "objectID": "23017977",
+      "_highlightResult": {
+        "title": {
+          "value": "Example.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://example.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mlejva",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-29T11:38:22.000Z",
+      "title": "Show HN: I trained a recurrent neural network in JavaScript to doodle dicks",
+      "url": "https://github.com/dickrnn/dickrnn.github.io/blob/master/README.md",
+      "author": "RichardRNN",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1588160302,
+      "_tags": ["story", "author_RichardRNN", "story_23017971", "show_hn"],
+      "objectID": "23017971",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: I trained a recurrent neural network in JavaScript to doodle dicks",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/dickrnn/dickrnn.github.io/blob/master/README.md",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "RichardRNN",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-29T11:37:10.000Z",
+      "title": "Feds turn to civilian Slack groups for help during coronavirus",
+      "url": "https://www.nbcnews.com/tech/security/several-people-are-hacking-feds-turn-civilian-slack-groups-help-n1194286?cid=sm_npd_nn_tw_ma",
+      "author": "nicedicerice",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1588160230,
+      "_tags": ["story", "author_nicedicerice", "story_23017966"],
+      "objectID": "23017966",
+      "_highlightResult": {
+        "title": {
+          "value": "Feds turn to civilian Slack groups for help during coronavirus",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.nbcnews.com/tech/security/several-people-are-hacking-feds-turn-civilian-slack-groups-help-n1194286?cid=sm_npd_nn_tw_ma",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "nicedicerice",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-29T11:35:49.000Z",
+      "title": "The 19th Century Roots of Modern Medical Denialism",
+      "url": "https://undark.org/2020/04/09/thomsonian-medicine/",
+      "author": "vo2maxer",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1588160149,
+      "_tags": ["story", "author_vo2maxer", "story_23017958"],
+      "objectID": "23017958",
+      "_highlightResult": {
+        "title": {
+          "value": "The 19th Century Roots of Modern Medical Denialism",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://undark.org/2020/04/09/thomsonian-medicine/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "vo2maxer",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 2360521,
+  "page": 0,
+  "nbPages": 200,
+  "hitsPerPage": 5,
+  "exhaustiveNbHits": false,
+  "query": "",
+  "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026hitsPerPage=5\u0026tags=story",
+  "processingTimeMS": 3
+}

@@ -2,6 +2,7 @@ import * as Constants from '../constants';
 
 const initialState = {
   posts: [],
+  number: 0,
   isFetching: false,
   hasError: false
 };
@@ -11,6 +12,7 @@ const homeReducer = (state = initialState, action) => {
     case Constants.REQUEST_ALGOLIA:
       return {
         ...state,
+        posts: [],
         isFetching: true,
         hasError: false
       };
@@ -19,6 +21,7 @@ const homeReducer = (state = initialState, action) => {
       return {
         ...state,
         posts: action.posts,
+        number: action.posts.length,
         isFetching: false,
         hasError: false
       };

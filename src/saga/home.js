@@ -1,10 +1,10 @@
 import { put, takeLatest } from 'redux-saga/effects'
 import { REQUEST_ALGOLIA } from '../constants';
-import * as actions from '../actions/homeActionCreators';
+import * as actions from '../actions/';
 
 function* fetchAlgolia() {
   try {
-    const response = yield fetch('https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=50');
+    const response = yield fetch('api.json');
     if (!response.ok) throw new Error('fetch algolia failed');
     const json = yield response.json();
     yield put(actions.receiveAlgolia(json));
